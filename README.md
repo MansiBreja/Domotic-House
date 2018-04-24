@@ -42,4 +42,4 @@ notes ) is played by the circuit.
 We encourage the user to make changes and add to the existing simulations in Tinkercad.
 This will bring new ideas for the project which is our aim exactly.
 
-Thank You
+This project was made collectively by [Mansi Breja](https://github.com/MansiBreja) and [Sarthak Tandon](https://github.com/sarthak0120) as a part of the Indo-Spanish multicultural collaborative project on Home Automation Systems under the guidance of Prof. Pinaki Chakraborty.
